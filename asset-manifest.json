@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-training/static/css/main.2dfa8edd.chunk.css",
-    "main.js": "/react-training/static/js/main.e6da05ba.chunk.js",
-    "main.js.map": "/react-training/static/js/main.e6da05ba.chunk.js.map",
-    "runtime-main.js": "/react-training/static/js/runtime-main.2d89dc89.js",
-    "runtime-main.js.map": "/react-training/static/js/runtime-main.2d89dc89.js.map",
-    "static/js/2.b1e25af7.chunk.js": "/react-training/static/js/2.b1e25af7.chunk.js",
-    "static/js/2.b1e25af7.chunk.js.map": "/react-training/static/js/2.b1e25af7.chunk.js.map",
-    "index.html": "/react-training/index.html",
-    "static/css/main.2dfa8edd.chunk.css.map": "/react-training/static/css/main.2dfa8edd.chunk.css.map",
-    "static/js/2.b1e25af7.chunk.js.LICENSE.txt": "/react-training/static/js/2.b1e25af7.chunk.js.LICENSE.txt"
+    "main.css": "/day2-day3/static/css/main.2dfa8edd.chunk.css",
+    "main.js": "/day2-day3/static/js/main.e6da05ba.chunk.js",
+    "main.js.map": "/day2-day3/static/js/main.e6da05ba.chunk.js.map",
+    "runtime-main.js": "/day2-day3/static/js/runtime-main.3b7f3559.js",
+    "runtime-main.js.map": "/day2-day3/static/js/runtime-main.3b7f3559.js.map",
+    "static/js/2.d032a1c2.chunk.js": "/day2-day3/static/js/2.d032a1c2.chunk.js",
+    "static/js/2.d032a1c2.chunk.js.map": "/day2-day3/static/js/2.d032a1c2.chunk.js.map",
+    "index.html": "/day2-day3/index.html",
+    "static/css/main.2dfa8edd.chunk.css.map": "/day2-day3/static/css/main.2dfa8edd.chunk.css.map",
+    "static/js/2.d032a1c2.chunk.js.LICENSE.txt": "/day2-day3/static/js/2.d032a1c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d89dc89.js",
-    "static/js/2.b1e25af7.chunk.js",
+    "static/js/runtime-main.3b7f3559.js",
+    "static/js/2.d032a1c2.chunk.js",
     "static/css/main.2dfa8edd.chunk.css",
     "static/js/main.e6da05ba.chunk.js"
   ]
